@@ -6,7 +6,7 @@
         "clientPlatform": "android",
         "packageName": "com.demo.push.d"
       },
-      "displayName": "DemoAppIonicF",
+      "displayName": "DemoAppIonicG",
       "scopeElementMapping": {
         "push.mobileclient": "",
         "liveupdate.mobileclient": ""

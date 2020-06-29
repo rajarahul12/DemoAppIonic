@@ -34,7 +34,7 @@ export class HomePage {
 
 
   mfAnalyticsInit () {
-    WL.Analytics.log('App started successfully...', 'DemoAppIonicF');
+    WL.Analytics.log('App started successfully...', 'DemoAppIonicG');
     WL.Analytics.send();
 
     var logger = WL.Logger.create({ pkg: 'com.demo.push.d' });
